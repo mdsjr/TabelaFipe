@@ -11,7 +11,7 @@ O **Tabela Fipe** é uma aplicação desenvolvida em Java com o framework Spring
 
 ## Estrutura do Projeto
 
-- `br.com.alura.TabelaFipe`
+- `br.com.alura.tabelafipe`
   - **TabelaFipeApplication.java**: Classe principal que inicializa a aplicação.
   - **Principal**: Classe responsável por exibir o menu principal e gerenciar a interação com o usuário.
 
@@ -29,7 +29,7 @@ O **Tabela Fipe** é uma aplicação desenvolvida em Java com o framework Spring
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd TabelaFipe
+   cd tabelafipe
    ```
 
 3. Compile o projeto:
@@ -39,7 +39,7 @@ O **Tabela Fipe** é uma aplicação desenvolvida em Java com o framework Spring
 
 4. Execute a aplicação:
    ```bash
-   java -jar target/TabelaFipe-1.0.0.jar
+   java -jar target/tabelafipe-1.0.0.jar
    ```
 
 5. Interaja com o menu exibido no console.
